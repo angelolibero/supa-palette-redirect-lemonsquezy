@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://supaproducts.lemonsqueezy.com/",
+      "permanent": true
+    }
+  ]
+}
